@@ -1,0 +1,10 @@
+# Bundle patch shipped by dsh-plugin-balance.
+#
+# A top-level array of Loader patch entries applied as this bundle's layer of the
+# profile that installs the package. Existing rows are addressed by `- id`; a new
+# row is added with `- insert`, which is what this bundle needs: one host row.
+# The browser half rides along because the package declares `dsh.client`, and the
+# client module scan reads the enabled Loader entries' packages.
+- insert:
+    - id: ui-balance
+      name: "dsh-plugin-balance"
