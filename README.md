@@ -1,6 +1,6 @@
 # dsh-plugin-balance
 
-在 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 桌面端左侧边栏的左下角，把账户**总余额**显示在账户头像右侧、与头像同一行。悬停看明细，点 `⟳` 手动刷新，**余额低于自定义阈值时整块变红**。
+在 [DeepSeek Harness](https://github.com/Dangdang-Ai/dsh-plugin-balance) 桌面端左侧边栏的左下角，把账户**总余额**显示在账户头像右侧、与头像同一行。悬停看明细，点 `⟳` 手动刷新，**余额低于自定义阈值时整块变红**。
 
 ```
 ┌──────────────────────────────────────┐
