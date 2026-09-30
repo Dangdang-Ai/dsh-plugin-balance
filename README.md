@@ -45,7 +45,7 @@ A tiny client plugin for DeepSeek Harness: it shows the signed-in account's tota
 1. 侧边栏底部打开 **插件** 页面。
 2. 点 **添加插件**，在「包名或地址」里填仓库地址：
    ```
-   https://github.com/<你的用户名>/dsh-plugin-balance
+   https://github.com/Dangdang-Ai/dsh-plugin-balance
    ```
 3. 点 **安装**，完成后点 **立即启用**。
 4. 刷新页面（⌘R）。
